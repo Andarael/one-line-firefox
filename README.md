@@ -9,6 +9,7 @@
   - `browser.compactmode.show`: `true`
   - `extensions.pocket.enabled`: `false`
   - `browser.tabs.tabMinWidth` : `30`
+  - `browser.urlbar.trimHttps` : `true`
 - Go to Menu > More Tools > Customize Toolbar...: use compact density, auto-hide downloads button, remove all flexible space and unnecessary items.
 - intall [tree style tabs](https://addons.mozilla.org/en-GB/firefox/addon/tree-style-tab/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=discopane-entry-link)
 - Open _`about:support`_, copy Profile Folder
@@ -27,9 +28,9 @@ If your bar doesn't show up in fullscreen when moving the cursor to the top edge
 
 ## Screenshots
 
-![Light](preview/screenshot_dark.png)
+![Light](preview/Screenshot_dark.png)
 
-![Dark](preview/screenshot_light.png)
+![Dark](preview/Screenshot_light.png)
 
 ## Acknowledgements
 
