@@ -1,9 +1,9 @@
 /* Title bar */
 
 /* Windows buttons */
-.titlebar-buttonbox {
+/* .titlebar-buttonbox {
     display: none !important;
-}
+} */
 
 .titlebar-spacer {
     display: none !important;
@@ -14,14 +14,19 @@
     border: 0px !important;
 }
 
+/* list all tabs button */
+#alltabs-button {
+    display: none !important;
+}
+
 #TabsToolbar {
-    margin-left: 30vw !important; 
+    margin-left: 50vw !important; 
 }
 
 /* Nav bar*/
 #nav-bar {
     background: transparent !important;
-    margin-right: 70vw !important;
+    margin-right: 50vw !important;
     margin-top: -36px !important;
 }
 
